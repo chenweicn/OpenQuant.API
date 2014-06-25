@@ -22,7 +22,7 @@ OpenQuant.API加强版
 
 ### Easy Mode
 
-git clone后，在前人修改的基础上继续修改。本repo会跟进合并最新版OpenQuant中的OpenQuant.API.dll。
+git clone后，在前人修改的基础上继续修改。
 
 ### Hard Mode
 
