@@ -251,7 +251,7 @@ namespace OpenQuant.API
 		{
 			get
 			{
-				return OpenQuant.Bars[this.Instrument];
+				return OpenQuant.Bars[this.instrument, BarType.Time, Bar.Size];
 			}
 		}
 		public TradeSeries Trades
